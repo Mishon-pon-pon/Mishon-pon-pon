@@ -3,6 +3,10 @@
 Senior Frontend Developer on a path to **Frontend Architect**.  
 I design scalable frontend architectures and care obsessively about web performance and developer experience.
 
+> Note: I'm just starting to curate this GitHub space.  
+> Over time, this profile will focus on frontend architecture, design systems and real-world performance work.
+
+
 ## What I do
 
 - Build modular, long-living frontend architectures for product teams
