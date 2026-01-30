@@ -1,4 +1,4 @@
-# Hi, I'm Mishon-pon-pon 👋
+# Hi, I'm Mikhail 👋
 
 Senior Frontend Developer on a path to **Frontend Architect**.  
 I design scalable frontend architectures and care obsessively about web performance and developer experience.
